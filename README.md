@@ -1,1 +1,1 @@
-# output-siblings-through-loop-wordpress
+# Output-Siblings-Through-Loop
